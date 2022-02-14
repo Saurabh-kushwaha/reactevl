@@ -1,0 +1,81 @@
+{
+  "product": [
+    {
+      "Titile": "Apple",
+      "Cost": "40",
+      "Category": "fruits",
+      "files": "C:\\fakepath\\1.png",
+      "id": 1
+    },
+    {
+      "Titile": "Orange",
+      "Cost": "20",
+      "Category": "fruits",
+      "files": "C:\\fakepath\\1.png",
+      "id": 3
+    },
+    {
+      "Titile": "patoto",
+      "Cost": "23",
+      "Category": "vegetables",
+      "files": "C:\\fakepath\\Screenshot (6).png",
+      "id": 7
+    },
+    {
+      "Titile": "Pumpking",
+      "Cost": "18",
+      "Category": "vegetables",
+      "files": "C:\\fakepath\\Screenshot (7).png",
+      "id": 8
+    },
+    {
+      "Titile": "Pumpk",
+      "Cost": "18",
+      "Category": "vegetables",
+      "files": "C:\\fakepath\\Screenshot (7).png",
+      "id": 9
+    },
+    {
+      "Titile": "Pumpking",
+      "Cost": "18",
+      "Category": "vegetables",
+      "files": "C:\\fakepath\\Screenshot (7).png",
+      "id": 10
+    },
+    {
+      "Titile": "Reddyfinger",
+      "Cost": "18",
+      "Category": "vegetables",
+      "files": "C:\\fakepath\\Screenshot (7).png",
+      "id": 11
+    },
+    {
+      "Titile": "Tea",
+      "Cost": "50",
+      "Category": "provisions",
+      "files": "C:\\fakepath\\Screenshot (6).png",
+      "id": 12
+    },
+    {
+      "Titile": "Floar",
+      "Cost": "100",
+      "Category": "provisions",
+      "files": "C:\\fakepath\\1.png",
+      "id": 13
+    },
+    {
+      "Titile": "crax",
+      "Cost": "100",
+      "Category": "provisions",
+      "files": "C:\\fakepath\\1.png",
+      "id": 14
+    },
+    {
+      "Titile": "Pulse",
+      "Cost": "200",
+      "Category": "provisions",
+      "files": "C:\\fakepath\\Screenshot (6).png",
+      "id": 15
+    }
+  ]
+}
